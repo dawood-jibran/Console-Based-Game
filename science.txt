@@ -1,0 +1,61 @@
+10
+What is the boiling point of water at sea level (in degree Celsius)?
+50
+90
+100
+150
+3
+Which gas do plants absorb during photosynthesis?
+Oxygen
+Carbon dioxide
+Nitrogen
+Hydrogen
+2
+What is the center of an atom called?
+Electron
+Neutron
+Proton
+Nucleus
+4
+Which planet is known as the Red Planet?
+Venus
+Mars
+Jupiter
+Mercury
+2
+What is the chemical formula for water?
+H2
+H2O
+HO2
+O2H
+2
+What part of the cell contains genetic material?
+Cytoplasm
+Nucleus
+Cell membrane
+Vacuole
+2
+Which vitamin is produced by the body when exposed to sunlight?
+Vitamin A
+Vitamin B
+Vitamin C
+Vitamin D
+4
+What gas is essential for human breathing?
+Carbon dioxide
+Nitrogen
+Oxygen
+Hydrogen
+3
+What is the hardest natural substance on Earth?
+Diamond
+Gold
+Iron
+Platinum
+1
+Which organ pumps blood in the human body?
+Lungs
+Brain
+Heart
+Kidneys
+3

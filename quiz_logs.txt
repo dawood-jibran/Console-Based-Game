@@ -1,0 +1,118 @@
+=========
+Player: hg
+Category: computer.txt
+Difficulty: Easy
+-----------
+Q1: Which device is used to input data into a computer?
+1. Monitor
+2. Keyboard
+3. Printer
+4. Speaker
+Player answer: 3
+Correct option: 2
+Result: WRONG
+Time taken: 6
+Marks now: -2
+--------------
+Q2: Which key is used to delete text to the left?
+1. Enter
+2. Backspace
+3. Shift
+4. Tab
+Player answer: 4
+Correct option: 2
+Result: WRONG
+Time taken: 1
+Marks now: -4
+--------------
+Q3: What does GUI stand for?
+1. Graphical User Input
+2. General User Interface
+3. Graphical User Interface
+4. Global User Instruction
+Player answer: 4
+Correct option: 3
+Result: WRONG
+Time taken: 0
+Marks now: -6
+--------------
+Q4: What does CPU stand for?
+1. Central Processing Unit
+2. Control Processing Unit
+3. Computer Processing Unit
+4. Central Program Unit
+Player answer: 4
+Correct option: 1
+Result: WRONG
+Time taken: 0
+Marks now: -8
+--------------
+Q5: What is the brain of the computer?
+1. Mouse
+2. Keyboard
+3. CPU
+4. Monitor
+Player answer: 4
+Correct option: 3
+Result: WRONG
+Time taken: 0
+Marks now: -10
+--------------
+Q6: Which part of the computer stores permanent instructions?
+1. RAM
+2. ROM
+3. Cache
+4. Registers
+Player answer: 4
+Correct option: 2
+Result: WRONG
+Time taken: 0
+Marks now: -12
+--------------
+Q7: Which memory is temporary?
+1. ROM
+2. SSD
+3. RAM
+4. Hard disk
+Player answer: 4
+Correct option: 3
+Result: WRONG
+Time taken: 1
+Marks now: -14
+--------------
+Q8: Which of the following is an output device?
+1. Mouse
+2. Scanner
+3. Monitor
+4. Keyboard
+Player answer: 4
+Correct option: 3
+Result: WRONG
+Time taken: 0
+Marks now: -16
+--------------
+Q9: What is the smallest unit of data?
+1. Byte
+2. Kilobyte
+3. Bit
+4. Word
+Player answer: 4
+Correct option: 3
+Result: WRONG
+Time taken: 1
+Marks now: -18
+--------------
+Q10: What does GUI stand for?
+1. Graphical User Input
+2. General User Interface
+3. Graphical User Interface
+4. Global User Instruction
+Player answer: 2
+Correct option: 3
+Result: WRONG
+Time taken: 6
+Marks now: -20
+--------------
+SUMMARY: correct=0 wrong=10 marks=-20
+=================
+

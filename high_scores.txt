@@ -1,0 +1,3 @@
+dawood 13
+ali 26
+hg -20
