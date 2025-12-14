@@ -5,3 +5,6 @@ Mian concepts:
     - file handling
     - arrays
     - 2D arrays
+
+Language:
+    -C++
