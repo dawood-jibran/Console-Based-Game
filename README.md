@@ -38,3 +38,6 @@ Debugging and problem-solving
 
 Clone, compile, and enjoy the game!
 Feedback and suggestions are welcome 😊
+
+![Top Language](https://img.shields.io/github/languages/top/dawood-jibran/Console-Based-Game)
+![Repo Size](https://img.shields.io/github/repo-size/dawood-jibran/Console-Based-Game)
