@@ -22,21 +22,3 @@ Created as part of my **Programming Fundamentals Lab** at **FAST NUCES (Faisalab
 ## 🚀 How to Clone:
 ```bash
 git clone https://github.com/dawood-jibran/Console-Based-Game.git
-
----
-
-##💡 What I Learned:
-
-Reading/writing files in C++
-Using arrays and loops for game logic
-Designing an interactive console game
-Debugging and problem-solving
-
----
-
-##🌟 Try It Out!
-Clone, compile, and enjoy the game!
-Feedback and suggestions are welcome 😊
-
-![Top Language](https://img.shields.io/github/languages/top/dawood-jibran/Console-Based-Game)
-![Repo Size](https://img.shields.io/github/repo-size/dawood-jibran/Console-Based-Game)
