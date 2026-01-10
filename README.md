@@ -25,7 +25,7 @@ git clone https://github.com/dawood-jibran/Console-Based-Game.git
 
 ---
 
-💡 What I Learned
+##💡 What I Learned:
 
 Reading/writing files in C++
 Using arrays and loops for game logic
@@ -34,8 +34,7 @@ Debugging and problem-solving
 
 ---
 
-🌟 Try It Out!
-
+##🌟 Try It Out!
 Clone, compile, and enjoy the game!
 Feedback and suggestions are welcome 😊
 
